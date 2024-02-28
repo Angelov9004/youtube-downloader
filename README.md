@@ -1,6 +1,12 @@
 # youtube
 Youtube Video downloader
 
+
+
+file:///home/angelov/Pictures/Screenshots/Screenshot%20from%202024-02-28%2015-43-34.png
+
+
+
  To convert your Python script (*.py) to an executable (*.exe), you can use various tools available. One commonly used tool is PyInstaller, which is compatible with PyQt applications. Here's how you can use PyInstaller to create an executable from your Python script:
 
  Install PyInstaller: If you haven't already installed PyInstaller, you can install it via pip:
