@@ -1,7 +1,7 @@
 # youtube
 Youtube Video downloader
 
-<img alt="logo.png" src="https://github.com/Angelov9004/youtube/blob/main/logo.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+<img alt="Screenshot.png" src="https://github.com/Angelov9004/youtube/blob/main/Screenshot.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 
 
